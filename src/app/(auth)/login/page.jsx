@@ -4,4 +4,4 @@ const loginPage = () => {
     )
   }
   
-  export default page
+  export default loginPage
